@@ -45,4 +45,4 @@ Data Analytics Intern (Virtual) @ KPMG, USA
 
 ### Professional Membership
 - British Computer Society (BCS), The Chartered Institute for IT, UK
-- Royal Statistical Society (RSS), UK 
+- Royal Statistical Society (RSS), UK
