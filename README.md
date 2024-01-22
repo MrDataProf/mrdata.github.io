@@ -2,6 +2,13 @@
 
 ### Education
 Data Science, M.Sc
+Northumbria University, Newcastle, United Kingdom
+
+Computer Science, B.Sc
+Lagos State University, Ojo. Nigeria
+
+Professional Diploma in Statistics
+University of Ibadan, Ibadan. Nigeria
 
 ### Work Experience
 Data Analyst @ RKY Careers, London
