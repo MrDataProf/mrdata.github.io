@@ -29,7 +29,7 @@ Data Analyst @ New Horizons Ltd, Nigeria
 
 Web Designer/DBA @ The Elizabetha Brand Ltd, Nigeria
 - Web Development using HTML, CSS, and JavaScript
-- Database Administration
+- Database Development and Administration
 
 Data Analytics Intern (Virtual) @ KPMG, USA
 
