@@ -20,3 +20,29 @@ Data Analyst @ RKY Careers, London
 - Python Big Impact Project 6
 - Machine Learning Big Impact Project 7
 
+Data Analyst @ New Horizons Ltd, Nigeria
+- Excel Project
+- SQL Project
+- Power BI Project
+- Tableau Project
+- Python Web Scraping Project
+
+Web Designer/DBA @ The Elizabetha Brand Ltd, Nigeria
+- Web Development using HTML, CSS, and JavaScript
+- Database Administration
+
+Data Analytics Intern (Virtual) @ KPMG, USA
+
+### Certifications
+- Google Advanced Data Analytics Professional (Coursera)
+- Google Data Analytics Professional (Coursera)
+- Certification of completion, Welup Digital School
+- Certification of completion, Utiva Data School
+- Microsoft, SQL Server (MCP)
+- Microsoft, .NET framework (MCP)
+- Oracle, Oracle 10G Certified Professional (OCP)
+- Oracle, Oracle 10G Certified Associate (OCA)
+
+### Professional Membership
+- British Computer Society (BCS), The Chartered Institute for IT, UK
+- Royal Statistical Society (RSS), UK
