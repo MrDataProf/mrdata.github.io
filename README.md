@@ -1,5 +1,20 @@
 # Data Professional
 
+### PROFILE SUMMARY
+Highly skilled and experienced Data Analyst with a proven track record of leveraging data to drive business decisions. Expertise in SQL, Data Analysis, Data Visualization, and Data Storytelling using tools such as Excel, Power BI, Tableau, R, and Python. Passionate about transforming data into actionable insights to foster informed decision-making. Demonstrated ability to develop applications using Power Apps, handle customer complaints, and enhance operational efficiency in housing and property management environments.
+
+### CORE COMPETENCIES
+Data Analysis & Visualization (Power BI, Excel, Tableau)
+SQL Querying & Data Manipulation
+Application Development (Power Apps)
+Statistical Analysis & Hypothesis Testing
+Advanced Excel Functions & Pivot Tables
+Python & R for Data Cleaning & Statistical Analysis
+Effective Communication & Problem-Solving
+Project & Time Management
+Customer Service & Complaint Resolution
+Project Management & Team Collaboration
+
 ### Education
 Data Science, M.Sc
 Northumbria University, Newcastle, United Kingdom
