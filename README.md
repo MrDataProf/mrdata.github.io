@@ -53,10 +53,10 @@ Data Analytics Intern (Virtual) @ KPMG, USA
 **Tools Used:** Power Apps, SharePoint <br />
 **Impact:** Reduced time-tracking errors by 50%, saving 10 hours per week in administrative tasks. <br />
 **Customer Complaints Reporting:** <br />
-**Tools Used:** Power BI, Excel, Python
-**Impact:** Enhanced visibility into customer complaints, reducing average resolution time from 48 hours to 34 hours.
+**Tools Used:** Power BI, Excel, Python <br />
+**Impact:** Enhanced visibility into customer complaints, reducing average resolution time from 48 hours to 34 hours. <br />
 **Data Automation:** <br />
-**Tools Used:** Python, SQL
+**Tools Used:** Python, SQL <br />
 **Impact:** Automated repetitive data processing tasks, reducing processing time by 35% and eliminating data entry errors.
 
 ### Certifications
