@@ -50,8 +50,8 @@ Data Analytics Intern (Virtual) @ KPMG, USA
 
 ### KEY PROJECTS
 **Timesheet Application Development:** <br />
-**Tools Used:** Power Apps, SharePoint
-**Impact:** Reduced time-tracking errors by 50%, saving 10 hours per week in administrative tasks.
+**Tools Used:** Power Apps, SharePoint <br />
+**Impact:** Reduced time-tracking errors by 50%, saving 10 hours per week in administrative tasks. <br />
 **Customer Complaints Reporting:** <br />
 **Tools Used:** Power BI, Excel, Python
 **Impact:** Enhanced visibility into customer complaints, reducing average resolution time from 48 hours to 34 hours.
